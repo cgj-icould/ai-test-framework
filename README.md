@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/cgj-icould/ai-test-framework/actions/workflows/main.yml/badge.svg)](https://github.com/cgj-icould/ai-test-framework/actions/workflows/main.yml)
 # AI-Test-Framework
 
 这是一个基于 Java 的接口自动化测试框架。（一句话说明项目用途）
